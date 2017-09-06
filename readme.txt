@@ -1,3 +1,3 @@
 Learning gi1 the first repository.
-Git is free software!
+Git is free software distributed under the GPL!
 The first change!
